@@ -1,0 +1,27 @@
+.category {
+    margin-bottom: 16px;
+}
+
+.items {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.item {
+  width: auto;
+  min-width: 300px;
+  height: auto;
+  min-height: 70px;
+  padding: 12px;
+  margin: 8px;
+  background: hsl(0, 0%, 9%);
+  box-shadow: 0 0 12px 6px rgba(0,0,0,0.05);
+  border-radius: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

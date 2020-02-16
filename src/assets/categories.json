@@ -1,0 +1,59 @@
+[
+    {
+        "title": "Services",
+        "items": [
+            {
+                "title": "Protonmail",
+                "description": "Secure Email Service",
+                "url": "https://beta.protonmail.com",
+                "iconpath": "https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/protonmail-desktop-icon.png"
+            },
+            {
+                "title": "Todoist",
+                "description": "Todo app",
+                "url": "https://todoist.com",
+                "iconpath": "https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/goa-account-todoist-icon.png"
+            }
+        ]
+    },
+    {
+        "title": "Social Media",
+        "items": [
+            {
+                "title": "Reddit",
+                "description": "Online forum",
+                "url": "https://www.reddit.com",
+                "iconpath": "https://image.flaticon.com/icons/png/128/1409/1409938.png"
+            },
+            {
+                "title": "Mastodon",
+                "description": "Decentralized twitter service",
+                "url": "https://mastodon.social",
+                "iconpath": "https://static.cybre.space/media_attachments/files/006/162/279/original/5d10daa04dffa879.png"
+            },
+            {
+                "title": "Twitter",
+                "description": "Just Twitter",
+                "url": "https://twitter.com",
+                "iconpath": "https://pngimg.com/uploads/twitter/twitter_PNG9.png"
+            }
+        ]
+    },
+    {
+        "title": "Entertainment",
+        "items": [
+            {
+                "title": "Youtube",
+                "description": "Just Youtube",
+                "url": "https://www.youtube.com",
+                "iconpath": "https://cdn.iconscout.com/icon/free/png-256/youtube-82-189778.png"
+            },
+            {
+                "title": "Twitch",
+                "description": "Livestreaming service",
+                "url": "https://twitch.tv/directory",
+                "iconpath": "https://cdn.iconscout.com/icon/free/png-256/twitch-16-569328.png"
+            }
+        ]
+    }
+]

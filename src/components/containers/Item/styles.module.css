@@ -1,0 +1,23 @@
+.icon {
+    float: left;
+    width: 30%;
+}
+
+.text {
+    float: right;
+    width: 70%;
+}
+
+img {
+    height: 69px;
+    width: auto;
+}
+
+h1 {
+    font-size: 1.6em;
+    display: inline;
+}
+p {
+    font-size: 1em;
+}
+

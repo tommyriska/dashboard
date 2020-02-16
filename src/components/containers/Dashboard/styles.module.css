@@ -1,0 +1,11 @@
+.dashboard {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+}
+
+.categories {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
